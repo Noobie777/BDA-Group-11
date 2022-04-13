@@ -13,6 +13,7 @@ We plan on communicating via email, text and Discord. We will schedule Zoom meet
 ## Data Resource
 The data that we plan to work with is the New York City Taxi and Limousine Commission (TLC) Trip Record Data.
 The dataset contains data of trips taken by taxis and for-hire vehicles in New York City.
+
 Data Source: https://registry.opendata.aws/nyc-tlc-trip-records-pds/
 
 ## Business Problem or Opportunity, Domain Knowledge

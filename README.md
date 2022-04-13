@@ -23,4 +23,7 @@ Technology providers authorized under the Taxicab and Livery Passenger Enhanceme
 
 The For-Hire Vehicle (“FHV”) trip records include fields capturing the dispatching base license number and the pick-up date, time, and taxi zone location ID (shape file below). These records are generated from the FHV Trip Record submissions made by bases. Note: The TLC publishes base trip record data as submitted by the bases, and we cannot guarantee or confirm their accuracy or completeness. Therefore, this may not represent the total amount of trips dispatched by all TLC-licensed bases. The TLC performs routine reviews of the records and takes enforcement actions when necessary to ensure, to the extent possible, complete and accurate information.
 
-## Research Objectives and Question
+## Research Objectives and Questions
+We plan on analysing the data thoroughly and will find any existing trends and relationships that are present in the dataset.
+
+We will then perform predictive analysis on the dataset.

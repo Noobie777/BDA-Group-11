@@ -27,3 +27,6 @@ The For-Hire Vehicle (“FHV”) trip records include fields capturing the dispa
 We plan on analysing the data thoroughly and will find any existing trends and relationships that are present in the dataset.
 
 We will then perform predictive analysis on the dataset.
+
+## Narrated Presentation of the project we worked so far
+https://youtu.be/9w9z8sgOWB8

@@ -29,7 +29,7 @@ We plan on analysing the data thoroughly and will find any existing trends and r
 We will then perform predictive analysis on the dataset.
 
 ## Narrated Presentation of the project we worked so far
-https://youtu.be/9w9z8sgOWB8
+https://youtu.be/8OjXyVKEi6k
 
 ## Future work and comments
 The data that we used was pretty clean and most of the data is well captured. There were a few NaNs which we replaced with 0s. The feature variable for our models was the trip duration. We had to manually calculate the data for that column by calculating the difference between the dopoff time and the pickup time. For our evaluation, we fit the model on our training data and predicted values on our testing data. We then measured the RMSE on the testing feature data.
